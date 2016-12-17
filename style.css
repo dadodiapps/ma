@@ -26,7 +26,7 @@ html,body{font-family:'Open Sans',sans-serif;font-size:100%;background:#FFf;}bod
 	margin-top: 1.2em;
 	}
 	.banner {
-	background: url(../images/bg.jpg) no-repeat 0px 0px;
+	background: url(https://raw.githubusercontent.com/devlopemaroc/doc/master/bg.jpg) no-repeat 0px 0px;
 	background-size: cover;
 	min-height: 594px;
 	}
